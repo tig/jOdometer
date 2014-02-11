@@ -1,5 +1,5 @@
 /*
- * jOdometer (1.4.2) // 2012.08.13 // <http://www.frontendmatters.com/projects/jquery-plugins/jodometer/>
+ * jOdometer (1.4.3) // 2012.08.13 // <http://www.frontendmatters.com/projects/jquery-plugins/jodometer/>
  *
  * REQUIRES jQuery 1.2.3+ <http://jquery.com/>
  *
@@ -255,7 +255,7 @@
             if (j >= 0){
               // This position was previously unused. Show it.
               $('.jodometer_integer_' + i, scope).show();
-              oldDigit = '0';
+              oldDigit = '9';
             }
           }
         }
