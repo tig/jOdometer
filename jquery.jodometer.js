@@ -1,5 +1,5 @@
 /*
- * jOdometer (1.4.3) // 2012.08.13 // <http://www.frontendmatters.com/projects/jquery-plugins/jodometer/>
+ * jOdometer (1.4.3) // 2014.02.10 // <http://www.frontendmatters.com/projects/jquery-plugins/jodometer/>
  *
  * REQUIRES jQuery 1.2.3+ <http://jquery.com/>
  *
